@@ -40,11 +40,11 @@ disqus_shortname:   taylantatli
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         https://github.com/SymWhy
+github-url:         SymWhy
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          https://www.linkedin.com/in/sym-whysel-815703102/
+linkedin:           sym-whysel-815703102
 #xing:              username
-instagram:          https://www.instagram.com/sym.cos/
+instagram:          sym.cos
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -61,7 +61,7 @@ instagram:          https://www.instagram.com/sym.cos/
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-etsy:               https://symcos.etsy.com
+etsy:               symcos
 
 # Gems
 gems:
